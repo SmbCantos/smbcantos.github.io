@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ShellaCantos</title>
+    <link>http://www.example.com/posts/</link>
+    <description>Recent content in Posts on ShellaCantos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nothing to see here</title>
+      <link>http://www.example.com/posts/projects/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/projects/</guid>
+      <description>I told you so&amp;hellip; Articles are still in progress!</description>
+    </item>
+    
+  </channel>
+</rss>
